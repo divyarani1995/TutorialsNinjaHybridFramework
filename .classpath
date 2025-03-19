@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-java-4.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-server-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/log4j-core-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/slf4j-api-2.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/commons-io-2.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/maven-clean-plugin-2.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/testng-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-server-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/clojure-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/java.classpath-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/byte-buddy-1.14.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/byte-buddy-1.14.15-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/checker-qual-3.42.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/checker-qual-3.42.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/error_prone_annotations-2.26.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/error_prone_annotations-2.26.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/failsafe-3.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/failureaccess-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/guava-33.2.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/guava-33.2.0-jre-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/jsr305-3.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-api-1.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-api-1.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-api-incubator-1.38.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-api-incubator-1.38.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-context-1.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-context-1.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-exporter-logging-1.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-exporter-logging-1.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-1.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-1.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-common-1.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-common-1.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-extension-autoconfigure-1.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-extension-autoconfigure-1.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-extension-autoconfigure-spi-1.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-extension-autoconfigure-spi-1.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-logs-1.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-logs-1.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-metrics-1.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-metrics-1.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-trace-1.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-sdk-trace-1.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-semconv-1.25.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/opentelemetry-semconv-1.25.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-api-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-api-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-chrome-driver-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-chrome-driver-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-chromium-driver-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-chromium-driver-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-devtools-v85-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-devtools-v85-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-devtools-v123-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-devtools-v123-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-devtools-v124-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-devtools-v124-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-devtools-v125-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-devtools-v125-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-edge-driver-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-edge-driver-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-firefox-driver-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-firefox-driver-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-http-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-http-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-ie-driver-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-ie-driver-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-java-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-java-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-json-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-json-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-manager-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-manager-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-os-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-os-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-remote-driver-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-remote-driver-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-safari-driver-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-safari-driver-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-support-4.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/selenium-support-4.21.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/async-http-client-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/async-http-client-netty-utils-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/auto-common-0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/auto-service-1.0-rc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/auto-service-annotations-1.0-rc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/byte-buddy-1.10.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/checker-qual-2.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/grpc-context-1.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/guava-28.2-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/kotlin-stdlib-1.3.61.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/kotlin-stdlib-common-1.3.61.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-buffer-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-codec-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-codec-http-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-codec-socks-4.1.46.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-common-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-handler-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-handler-proxy-4.1.46.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-resolver-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-transport-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-transport-native-epoll-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-transport-native-kqueue-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/netty-transport-native-unix-common-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/okhttp-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/okio-2.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/opentelemetry-api-0.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sivin/Downloads/Compressed/selenium-java-4.0.0-alpha-5/lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
